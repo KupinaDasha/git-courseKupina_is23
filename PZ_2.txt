@@ -1,0 +1,6 @@
+number = int(input("Введите трехзначное число"))
+
+
+ferstDigit = number // 100
+
+print("Первая цифра трехзначного числа", ferstDigit)
